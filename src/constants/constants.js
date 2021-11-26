@@ -24,7 +24,7 @@ export const projects = [
       'Site de filmes, onde é possível ver os detalhes de um filme, fazer busca, selecionar por categoria entre outros.',
     image: '/images/3.png',
     tags: ['React', 'TypeScript'],
-    visit: 'https://gsdogs.netlify.app/',
+    visit: 'https://gsmoviesapp.netlify.app/',
     id: 2,
   },
   {
@@ -33,7 +33,7 @@ export const projects = [
       'Sistema de chamados, onde é possível fazer login, registrar clientes, trocar imagem de avatar, entre outros.',
     image: '/images/4.png',
     tags: ['React', 'TypeScript', 'CSS'],
-    visit: 'https://gsdogs.netlify.app/',
+    visit: 'https://gschamados.netlify.app/dashboard',
     id: 3,
   },
   {
@@ -42,8 +42,8 @@ export const projects = [
       'Clone da página principal da Netflix, foi desenvolvido com ReactJS.',
     image: '/images/5.png',
     tags: ['React', 'JavaScript', 'CSS'],
-    visit: 'https://gsdogs.netlify.app/',
-    id: 3,
+    visit: 'https://gsnetflix.netlify.app/',
+    id: 4,
   },
   {
     title: 'Hulu Clone',
@@ -51,7 +51,7 @@ export const projects = [
       'Clone da página principal da Hulu, foi desenvolvido com NextJS e Taiwind CSS.',
     image: '/images/6.png',
     tags: ['NextJS', 'Taiwind CSS'],
-    visit: 'https://gsdogs.netlify.app/',
-    id: 3,
+    visit: 'https://gshulu-clone.vercel.app/',
+    id: 5,
   },
 ];
