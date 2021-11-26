@@ -32,7 +32,7 @@ export const projects = [
     description:
       'Sistema de chamados, onde é possível fazer login, registrar clientes, trocar imagem de avatar, entre outros.',
     image: '/images/4.png',
-    tags: ['React', 'TypeScript', 'CSS'],
+    tags: ['React', 'Javascript', 'Firebase'],
     visit: 'https://gschamados.netlify.app/dashboard',
     id: 3,
   },
