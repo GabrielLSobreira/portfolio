@@ -18,7 +18,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           Desenvolvedor focado em Front-end com conhecimento e prática em
-          JavaScript e ecossistema React.
+          JavaScript e no ecossistema React.
         </SectionText>
         <Button
           onClick={() =>
